@@ -1,4 +1,4 @@
-<template>
+<template >
     <v-container class="form">
         <v-form>
             <v-col>
@@ -383,4 +383,5 @@ export default {
     width: 500px;
     margin: 10% auto;
 }
+
 </style>
