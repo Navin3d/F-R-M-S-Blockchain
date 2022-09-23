@@ -5,3 +5,12 @@
 5) voting and details page.
 
 uvicorn main:app --reload
+
+team name, members
+ps in a para
+soln
+unique selling points
+demo
+architecture
+flow
+thank you
